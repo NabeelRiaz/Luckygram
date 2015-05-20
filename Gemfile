@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+
 
 gem 'rails', '4.2.1'
 
@@ -20,6 +20,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 gem 'bootstrap-sass'
+
+gem 'devise', '3.4.1'
 
 
 group :development, :test do
